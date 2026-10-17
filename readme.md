@@ -8,3 +8,5 @@ conflicts are there
 main->new-bug
 resolve conflicts
 new-bug->main
+#this is change from feature branch
+#This is feature 2.0
